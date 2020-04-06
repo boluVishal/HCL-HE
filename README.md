@@ -1,2 +1,4 @@
 # HCL-HE
-HCL organised a hackathon for NLP to extract relevant data from BalaceSheets
+HCL ML Hiring Challenge | Developer jobs in Noida
+I did some basic string manipulation and used regex for extrating data from balace sheets.
+
